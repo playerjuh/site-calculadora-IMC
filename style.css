@@ -67,3 +67,16 @@ button[type="submit"]:hover{
     color: #555;
     text-align: center;
 }
+
+.img-esquerda{
+    float: left;
+    width: 150px;
+    margin: 10px;
+
+}
+
+.img-direita{
+    float: right;
+    width: 150px;
+    margin: 10px;
+}
